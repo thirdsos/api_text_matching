@@ -14,11 +14,12 @@
 
 ### Build Database
 > $ python TextCategory.py
+* next
 > $ python unique_keyword.py
    
 ## Run Project
 > $ python main.py
-*
+* next
 > $ cd web
-*
+* next
 > $ npm start
