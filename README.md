@@ -18,5 +18,7 @@
    
 ## Run Project
 > $ python main.py
+*
 > $ cd web
+*
 > $ npm start
